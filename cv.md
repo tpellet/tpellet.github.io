@@ -1,7 +1,7 @@
 ---
 layout: inner
-title: Publications
-permalink: /publications/
+title: About
+permalink: /about/
 ---
 ## Markdown
 
